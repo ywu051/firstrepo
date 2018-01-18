@@ -1,1 +1,1 @@
-# firstrepo
+This program prints "hello git"
